@@ -1,0 +1,17 @@
+{
+	"name" : "one.razgriz.harmony-vpm",
+	"displayName" : "Harmony",
+	"version" : "2.2.2",
+	"unity" : "2019.4",
+	"description" : "A library for patching, replacing and decorating .NET and Mono methods during runtime (packaged for vpm). Source can be found at https://github.com/pardeike/Harmony",
+	"license": "MIT",
+    "hideInEditor" : false,
+    "author" : {
+		"name" : "Raz",
+		"url" : "https://github.com/rrazgriz/harmony-vpm"
+	},
+	"url" : "",
+    "legacyFiles" : {
+        "0Harmony.dll" : "4a020cfbc5bfdce4b9a4208a59c84249"
+    }
+}

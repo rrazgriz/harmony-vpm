@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/one.razgriz.harmony-vpm/**
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "one.razgriz.harmony-vpm"
 
 permissions:
   contents: write
