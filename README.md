@@ -12,7 +12,7 @@ This repo hosts a package of [Harmony](https://github.com/pardeike/Harmony) for 
 Until the VRChat Creator Companion supports user-defined repositories, you will need to manually install the package using the VPM CLI.
 
 1. Install the [VRChat Package Manager](https://vcc.docs.vrchat.com/vpm/cli/#installation--updating).
-2. Open a command prompt and enter `vpm add repo https://rrazgriz.github.io/harmony-vpm/`
+2. Open a command prompt and enter `vpm add repo https://rrazgriz.github.io/harmony-vpm/index.json`
 3. In the Creator Companion, navigate to your project and select Manage Project. Under `Selected Repos`, add the `Harmony` listing, and add the `Harmony` package to your project.
 
 ### Manual
